@@ -251,8 +251,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Salva Fathima**
-**Ajas Mohammed**
+**Salva Fathima** , **Ajas Mohammed**
 
 ---
 
